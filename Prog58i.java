@@ -35,7 +35,7 @@ public class MonthlyPay
         
     }
 }
-/*
+/* 
  * Output:
  * #1
  * The amount I wish to borrow is? 7500
