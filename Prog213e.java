@@ -51,7 +51,7 @@ public class FamilyStats
         System.out.print("   <20\t\t");
         System.out.print(under20+"\t    ");
         System.out.print((double)total/under20+"\n");
-        
+        https://www.sciencenews.org/
         System.out.print(" 20-39\t\t");
         System.out.print(range2039+"\t ");
         System.out.print((double)total/range2039+"\n");
