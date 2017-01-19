@@ -67,12 +67,5 @@ Enter the book's title: Then and Now
 Enter the book's author: Joe Dupont
 Lucy Smith has taken out the book, Then and Now,by Joe Dupont.
 
-Enter Patron's first name: Bianca
-Enter Patron's last name: Smart
-Enter Patron's Library Number: nash9274
-Enter the book's title: Atlas Shrugged
-Enter the book's author: Ayn Rand
-Bianca Smart has taken out the book, Atlas Shrugged, by Ayn Rand.
-
 
  */
